@@ -1,4 +1,10 @@
-### Hi there 👋
+### 안녕하세요! 👋
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=0816i7594@gmail.com)](mailto:0816i7594@gmail.com)
+
+
+[![0816i's GitHub stats](https://github-readme-stats.vercel.app/api?username=0816i&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0816i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **0816i/0816i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
